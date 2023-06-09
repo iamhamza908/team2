@@ -1,1 +1,2 @@
-int(input("Enter Your Name:"))
+name = input("Enter your name : ")
+print("Hello"+ name)
